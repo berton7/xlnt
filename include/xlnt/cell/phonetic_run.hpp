@@ -26,6 +26,7 @@
 #include <string>
 
 #include <xlnt/xlnt_config.hpp>
+#include <stdint.h>
 
 namespace xlnt {
 
